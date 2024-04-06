@@ -1,0 +1,70 @@
+,StartTime,StockLevels,TUL_Mode,Circuit,Duration_Hrs,Description
+0,2023-02-17 00:00:00,High,3.0,,8.38,"High, Medium and low stockpiles"
+1,2023-08-30 00:00:00,Medium,3.0,,10.31,"High, Medium and low stockpiles"
+2,2024-04-06 00:00:00,Low,1.0,,11.08,"High, Medium and low stockpiles"
+3,2023-01-14 06:00:00,High,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+4,2023-01-28 06:00:00,Medium,2.0,,60.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+5,2023-04-07 18:00:00,Medium,2.0,,48.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+6,2023-04-27 20:00:00,High,2.0,,46.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+7,2023-04-30 06:00:00,High,2.0,,24.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+8,2023-05-11 18:00:00,High,2.0,,46.87,TUL-2 (or lower) modes lasting longer than 24 hrs
+9,2023-07-13 18:00:00,Low,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+10,2023-07-20 18:00:00,Low,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+11,2023-07-26 18:00:00,Low,2.0,,60.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+12,2023-09-10 16:46:35,Medium,2.0,,25.22,TUL-2 (or lower) modes lasting longer than 24 hrs
+13,2023-09-12 06:00:00,Medium,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+14,2023-09-16 11:18:11,Low,2.0,,30.7,TUL-2 (or lower) modes lasting longer than 24 hrs
+15,2023-10-21 18:00:00,Low,2.0,,46.78,TUL-2 (or lower) modes lasting longer than 24 hrs
+16,2023-10-24 18:00:00,Low,2.0,,24.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+17,2023-10-27 18:00:00,Low,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+18,2023-11-18 18:00:00,Medium,2.0,,24.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+19,2023-11-22 18:00:00,Low,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+20,2023-11-25 18:00:00,Low,2.0,,36.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+21,2023-11-28 06:00:00,Low,1.0,,27.57,TUL-2 (or lower) modes lasting longer than 24 hrs
+22,2024-01-28 18:00:00,Low,2.0,,24.0,TUL-2 (or lower) modes lasting longer than 24 hrs
+23,2023-11-28 13:35:05,Low,1.0,,16.42,Tul-1 (or lower) modes lasting longer than 8 hrs
+24,2023-07-12 01:52:00,Low,1.0,,14.98,Tul-1 (or lower) modes lasting longer than 8 hrs
+25,2023-01-28 15:43:05,Medium,1.0,,14.28,Tul-1 (or lower) modes lasting longer than 8 hrs
+26,2023-09-12 17:18:45,Medium,1.0,,12.69,Tul-1 (or lower) modes lasting longer than 8 hrs
+27,2023-09-10 18:00:00,Medium,1.0,,12.0,Tul-1 (or lower) modes lasting longer than 8 hrs
+28,2023-07-27 18:07:05,Low,1.0,,11.88,Tul-1 (or lower) modes lasting longer than 8 hrs
+29,2024-04-05 18:55:20,Low,1.0,,11.08,Tul-1 (or lower) modes lasting longer than 8 hrs
+30,2023-05-12 06:58:15,High,1.0,,11.03,Tul-1 (or lower) modes lasting longer than 8 hrs
+31,2023-01-14 07:44:20,High,1.0,,10.26,Tul-1 (or lower) modes lasting longer than 8 hrs
+32,2023-05-11 19:52:21,High,1.0,,10.13,Tul-1 (or lower) modes lasting longer than 8 hrs
+33,2023-01-29 08:40:11,Medium,1.0,,9.33,Tul-1 (or lower) modes lasting longer than 8 hrs
+34,2023-01-29 21:27:05,Medium,1.0,,8.55,Tul-1 (or lower) modes lasting longer than 8 hrs
+35,2023-09-14 06:00:00,Low,1.0,,8.47,Tul-1 (or lower) modes lasting longer than 8 hrs
+36,2023-01-14 21:48:45,High,1.0,,8.19,Tul-1 (or lower) modes lasting longer than 8 hrs
+37,2023-01-02 14:55:00,Low,,SM TLO,11.18,A TLO is down for more than 8 hours
+38,2023-01-13 06:00:00,High,,CB TLO,82.55,A TLO is down for more than 8 hours
+39,2023-01-27 03:49:00,Medium,,SM TLO,50.02,A TLO is down for more than 8 hours
+40,2023-01-29 17:56:00,Medium,,SM TLO,31.15,A TLO is down for more than 8 hours
+41,2023-02-28 03:29:00,High,,CC TLO,146.08,A TLO is down for more than 8 hours
+42,2023-03-20 05:53:35,High,,EW TLO,52.88,A TLO is down for more than 8 hours
+43,2023-03-26 06:00:00,High,,EW TLO,24.0,A TLO is down for more than 8 hours
+44,2023-04-03 10:42:30,High,,CB TLO,133.75,A TLO is down for more than 8 hours
+45,2023-04-28 07:16:01,High,,SM TLO,135.52,A TLO is down for more than 8 hours
+46,2023-06-24 06:00:00,Low,,EW TLO,173.57,A TLO is down for more than 8 hours
+47,2023-07-09 15:11:30,Low,,CB TLO,110.26,A TLO is down for more than 8 hours
+48,2023-07-28 03:17:00,Low,,SM TLO,38.72,A TLO is down for more than 8 hours
+49,2023-07-29 17:58:10,Low,,SM TLO,24.03,A TLO is down for more than 8 hours
+50,2023-07-30 18:00:00,Medium,,SM TLO,25.47,A TLO is down for more than 8 hours
+51,2023-09-11 08:03:55,Medium,,CC TLO,148.98,A TLO is down for more than 8 hours
+52,2023-09-20 02:05:05,Low,,EW TLO,202.73,A TLO is down for more than 8 hours
+53,2023-10-08 06:00:00,High,,CB TLO,27.99,A TLO is down for more than 8 hours
+54,2023-10-09 13:14:10,Medium,,CB TLO,39.72,A TLO is down for more than 8 hours
+55,2023-10-21 06:00:15,Low,,CB TLO,49.05,A TLO is down for more than 8 hours
+56,2023-10-26 02:55:55,Low,,SM TLO,123.07,A TLO is down for more than 8 hours
+57,2023-10-31 06:00:00,Medium,,SM TLO,16.06,A TLO is down for more than 8 hours
+58,2023-12-14 06:11:50,High,,EW TLO,155.8,A TLO is down for more than 8 hours
+59,2023-12-23 03:06:05,Low,,CB TLO,34.67,A TLO is down for more than 8 hours
+60,2024-01-10 19:55:15,Low,,CB TLO,32.79,A TLO is down for more than 8 hours
+61,2024-01-13 09:24:30,Low,,CB TLO,15.57,A TLO is down for more than 8 hours
+62,2024-01-22 14:58:45,Low,,EW TLO,136.02,A TLO is down for more than 8 hours
+63,2024-01-26 04:20:30,Low,,SM TLO,26.21,A TLO is down for more than 8 hours
+64,2024-01-27 18:08:30,Low,,SM TLO,36.58,A TLO is down for more than 8 hours
+65,2024-01-30 00:14:00,Low,,SM TLO,55.3,A TLO is down for more than 8 hours
+66,2024-02-21 03:52:00,Medium,,CC TLO,151.28,A TLO is down for more than 8 hours
+67,2024-03-15 06:00:00,Medium,,EW TLO,253.25,A TLO is down for more than 8 hours
+68,2024-04-03 15:46:20,Low,,CB TLO,62.23,A TLO is down for more than 8 hours
