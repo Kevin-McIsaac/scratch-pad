@@ -6,3 +6,5 @@ snowflake-connector-python
 python-dotenv
 snowflake-connector-python[pandas]
 openpyxl
+PyPDF2
+pycryptodome
